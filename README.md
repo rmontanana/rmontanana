@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on [local discretization with bayesian classifiers](https://github.com/doctorado-ml)
+🔭 I’m currently working on [BoostAODE](https://rmontanana.github.io/boostaode)
 
 <br/>
 <br/>
